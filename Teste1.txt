@@ -1,5 +1,5 @@
 Curso Java Parte 1
 Curso Java Parte 2
 Curso Docker
-Curso JPA
+Curso JPA com Hibernate
 Curso Spring
